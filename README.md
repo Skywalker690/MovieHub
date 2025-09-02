@@ -35,7 +35,7 @@ git clone https://github.com/Skywalker690/MovieHub.git
 2. **Navigate to project folder**
 
 ```bash
-cd IMDB-Clone
+cd MovieHub
 ```
 
 3. **Install dependencies**
